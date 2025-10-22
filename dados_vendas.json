@@ -1,0 +1,49 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "HENRIQUE LUCIO DA COSTA",
+      "phone": "35987074375",
+      "email": "henrique.lucio94@hotmail.com",
+      "address": "AVENIDA LEÔNIDAS LEAL 65 CENTENARIO",
+      "cpf": "09961114680",
+      "data_cadastro": "2025-10-11 17:20:19",
+      "observacoes": ""
+    },
+    {
+      "id": 2,
+      "name": "Jessica Patricia Zanateli",
+      "phone": "(35) 98707-4375",
+      "email": "",
+      "address": "Av leonidas leal 65 centenario",
+      "cpf": "099.611.146-80",
+      "data_cadastro": "2025-10-11 18:35:19",
+      "observacoes": ""
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "client": "HENRIQUE LUCIO DA COSTA",
+      "product_id": 1,
+      "product": "Kaiak Tradicional",
+      "amount": 150.0,
+      "unit_price": 150.0,
+      "quantity": 1,
+      "data_venda": "2025-10-13",
+      "observacoes": "",
+      "data_registro": "2025-10-13 12:56:33"
+    }
+  ],
+  "payments": [],
+  "stock": [
+    {
+      "id": 1,
+      "name": "Kaiak Tradicional",
+      "category": "Natura",
+      "code": "108400",
+      "size": null,
+      "quantity": 0
+    }
+  ]
+}

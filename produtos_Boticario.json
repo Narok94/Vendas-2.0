@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "bot_0001",
+    "nome": "Loção Hidratante Make B. Cacau 100 ml",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0002",
+    "nome": "Loção Hidratante Lily Amêndoas 50 ml",
+    "marca": "Lily",
+    "categoria": "maquiagem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0003",
+    "nome": "Loção Hidratante Zaad Baunilha 50 ml",
+    "marca": "Zaad",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0004",
+    "nome": "Kit Presente Lily Amêndoas",
+    "marca": "Lily",
+    "categoria": "perfumaria",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0005",
+    "nome": "Máscara Facial Arbo Coco 200 ml",
+    "marca": "Arbo",
+    "categoria": "cabelos",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0006",
+    "nome": "Condicionador Zaad Coco 50 ml",
+    "marca": "Zaad",
+    "categoria": "perfumaria",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0007",
+    "nome": "Shampoo Lily Amêndoas 50 ml",
+    "marca": "Lily",
+    "categoria": "corpo e banho",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0008",
+    "nome": "Kit Presente Floratta Coco",
+    "marca": "Floratta",
+    "categoria": "rosto",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0009",
+    "nome": "Batom Make B. Coco 250 ml",
+    "marca": "Make B.",
+    "categoria": "homem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0010",
+    "nome": "Shampoo Lily Baunilha 400 ml",
+    "marca": "Lily",
+    "categoria": "rosto",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0011",
+    "nome": "Máscara Facial Botik Lavanda 75 g",
+    "marca": "Botik",
+    "categoria": "corpo e banho",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0012",
+    "nome": "Kit Presente Botik Jasmim",
+    "marca": "Botik",
+    "categoria": "bem-estar",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0013",
+    "nome": "Base Líquida Cuide-se Bem Jasmim 250 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "homem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0014",
+    "nome": "Shampoo Zaad Lavanda 100 ml",
+    "marca": "Zaad",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0015",
+    "nome": "Desodorante Colônia Arbo Coco 50 ml",
+    "marca": "Arbo",
+    "categoria": "bem-estar",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0016",
+    "nome": "Kit Presente Cuide-se Bem Ameixa",
+    "marca": "Cuide-se Bem",
+    "categoria": "bem-estar",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0017",
+    "nome": "Loção Hidratante Intense Jasmim 200 ml",
+    "marca": "Intense",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0018",
+    "nome": "Sabonete em Barra Floratta Flor de Laranjeira 100 ml",
+    "marca": "Floratta",
+    "categoria": "bem-estar",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0019",
+    "nome": "Shampoo Arbo Amêndoas 50 ml",
+    "marca": "Arbo",
+    "categoria": "perfumaria",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0020",
+    "nome": "Kit Presente Malbec Flor de Laranjeira",
+    "marca": "Malbec",
+    "categoria": "rosto",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0021",
+    "nome": "Batom Floratta Ameixa 200 ml",
+    "marca": "Floratta",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0022",
+    "nome": "Shampoo Make B. Flor de Laranjeira 75 g",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0023",
+    "nome": "Condicionador Floratta Flor de Laranjeira 100 ml",
+    "marca": "Floratta",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0024",
+    "nome": "Kit Presente Malbec Algodão",
+    "marca": "Malbec",
+    "categoria": "maquiagem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0025",
+    "nome": "Desodorante Colônia Malbec Lavanda 50 ml",
+    "marca": "Malbec",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0026",
+    "nome": "Shampoo Arbo Cacau 150 ml",
+    "marca": "Arbo",
+    "categoria": "bem-estar",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0027",
+    "nome": "Loção Hidratante Egeo Algodão 150 ml",
+    "marca": "Egeo",
+    "categoria": "rosto",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0028",
+    "nome": "Kit Presente Floratta Rosa",
+    "marca": "Floratta",
+    "categoria": "maquiagem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0029",
+    "nome": "Body Splash Make B. Amêndoas 100 ml",
+    "marca": "Make B.",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0030",
+    "nome": "Base Líquida Intense Cacau 75 g",
+    "marca": "Intense",
+    "categoria": "homem",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0031",
+    "nome": "Base Líquida Make B. Jasmim 250 ml",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0032",
+    "nome": "Kit Presente Zaad Amêndoas",
+    "marca": "Zaad",
+    "categoria": "homem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0033",
+    "nome": "Creme de Mãos Arbo Jasmim 400 ml",
+    "marca": "Arbo",
+    "categoria": "maquiagem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0034",
+    "nome": "Batom Malbec Amêndoas 50 ml",
+    "marca": "Malbec",
+    "categoria": "kits",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0035",
+    "nome": "Condicionador Botik Baunilha 75 g",
+    "marca": "Botik",
+    "categoria": "corpo e banho",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0036",
+    "nome": "Kit Presente Arbo Baunilha",
+    "marca": "Arbo",
+    "categoria": "maquiagem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0037",
+    "nome": "Batom Zaad Baunilha 100 ml",
+    "marca": "Zaad",
+    "categoria": "kits",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0038",
+    "nome": "Máscara Facial Lily Flor de Laranjeira 100 ml",
+    "marca": "Lily",
+    "categoria": "perfumaria",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0039",
+    "nome": "Máscara Facial Botik Flor de Laranjeira 75 g",
+    "marca": "Botik",
+    "categoria": "cabelos",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0040",
+    "nome": "Kit Presente Lily Algodão",
+    "marca": "Lily",
+    "categoria": "bem-estar",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0041",
+    "nome": "Loção Hidratante Botik Lavanda 75 g",
+    "marca": "Botik",
+    "categoria": "homem",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0042",
+    "nome": "Base Líquida Make B. Baunilha 400 ml",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0043",
+    "nome": "Body Splash Zaad Jasmim 50 ml",
+    "marca": "Zaad",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0044",
+    "nome": "Kit Presente Floratta Algodão",
+    "marca": "Floratta",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0045",
+    "nome": "Shampoo Zaad Flor de Laranjeira 250 ml",
+    "marca": "Zaad",
+    "categoria": "maquiagem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0046",
+    "nome": "Condicionador Egeo Amêndoas 75 g",
+    "marca": "Egeo",
+    "categoria": "cabelos",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0047",
+    "nome": "Base Líquida Lily Ameixa 100 ml",
+    "marca": "Lily",
+    "categoria": "rosto",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0048",
+    "nome": "Kit Presente Malbec Lavanda",
+    "marca": "Malbec",
+    "categoria": "maquiagem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0049",
+    "nome": "Máscara Facial Egeo Algodão 100 ml",
+    "marca": "Egeo",
+    "categoria": "bem-estar",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0050",
+    "nome": "Base Líquida Botik Amêndoas 100 ml",
+    "marca": "Botik",
+    "categoria": "kits",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0051",
+    "nome": "Loção Hidratante Egeo Flor de Laranjeira 400 ml",
+    "marca": "Egeo",
+    "categoria": "bem-estar",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0052",
+    "nome": "Kit Presente Floratta Jasmim",
+    "marca": "Floratta",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0053",
+    "nome": "Loção Hidratante Egeo Baunilha 50 ml",
+    "marca": "Egeo",
+    "categoria": "kits",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0054",
+    "nome": "Máscara Facial Cuide-se Bem Cacau 400 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0055",
+    "nome": "Sabonete em Barra Zaad Ameixa 50 ml",
+    "marca": "Zaad",
+    "categoria": "corpo e banho",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0056",
+    "nome": "Kit Presente Arbo Algodão",
+    "marca": "Arbo",
+    "categoria": "rosto",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0057",
+    "nome": "Condicionador Malbec Coco 50 ml",
+    "marca": "Malbec",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0058",
+    "nome": "Desodorante Colônia Malbec Coco 250 ml",
+    "marca": "Malbec",
+    "categoria": "corpo e banho",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0059",
+    "nome": "Creme de Mãos Cuide-se Bem Amêndoas 400 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "maquiagem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0060",
+    "nome": "Kit Presente Cuide-se Bem Flor de Laranjeira",
+    "marca": "Cuide-se Bem",
+    "categoria": "bem-estar",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0061",
+    "nome": "Loção Hidratante Zaad Rosa 200 ml",
+    "marca": "Zaad",
+    "categoria": "cabelos",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0062",
+    "nome": "Desodorante Colônia Egeo Lavanda 400 ml",
+    "marca": "Egeo",
+    "categoria": "bem-estar",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0063",
+    "nome": "Batom Cuide-se Bem Cacau 150 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "maquiagem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0064",
+    "nome": "Kit Presente Zaad Amêndoas",
+    "marca": "Zaad",
+    "categoria": "perfumaria",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0065",
+    "nome": "Condicionador Zaad Cacau 50 ml",
+    "marca": "Zaad",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0066",
+    "nome": "Batom Botik Ameixa 150 ml",
+    "marca": "Botik",
+    "categoria": "corpo e banho",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0067",
+    "nome": "Body Splash Lily Rosa 250 ml",
+    "marca": "Lily",
+    "categoria": "bem-estar",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0068",
+    "nome": "Kit Presente Floratta Algodão",
+    "marca": "Floratta",
+    "categoria": "cabelos",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0069",
+    "nome": "Base Líquida Intense Ameixa 150 ml",
+    "marca": "Intense",
+    "categoria": "maquiagem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0070",
+    "nome": "Batom Malbec Algodão 50 ml",
+    "marca": "Malbec",
+    "categoria": "perfumaria",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0071",
+    "nome": "Body Splash Cuide-se Bem Cacau 400 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0072",
+    "nome": "Kit Presente Lily Rosa",
+    "marca": "Lily",
+    "categoria": "rosto",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0073",
+    "nome": "Base Líquida Floratta Amêndoas 50 ml",
+    "marca": "Floratta",
+    "categoria": "bem-estar",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0074",
+    "nome": "Creme de Mãos Malbec Rosa 250 ml",
+    "marca": "Malbec",
+    "categoria": "corpo e banho",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0075",
+    "nome": "Batom Floratta Coco 200 ml",
+    "marca": "Floratta",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0076",
+    "nome": "Kit Presente Cuide-se Bem Ameixa",
+    "marca": "Cuide-se Bem",
+    "categoria": "corpo e banho",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0077",
+    "nome": "Loção Hidratante Make B. Rosa 250 ml",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0078",
+    "nome": "Batom Botik Rosa 50 ml",
+    "marca": "Botik",
+    "categoria": "cabelos",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0079",
+    "nome": "Shampoo Egeo Flor de Laranjeira 150 ml",
+    "marca": "Egeo",
+    "categoria": "rosto",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0080",
+    "nome": "Kit Presente Zaad Lavanda",
+    "marca": "Zaad",
+    "categoria": "cabelos",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0081",
+    "nome": "Condicionador Arbo Jasmim 400 ml",
+    "marca": "Arbo",
+    "categoria": "homem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0082",
+    "nome": "Loção Hidratante Cuide-se Bem Lavanda 75 g",
+    "marca": "Cuide-se Bem",
+    "categoria": "homem",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0083",
+    "nome": "Desodorante Colônia Botik Coco 400 ml",
+    "marca": "Botik",
+    "categoria": "cabelos",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0084",
+    "nome": "Kit Presente Intense Rosa",
+    "marca": "Intense",
+    "categoria": "kits",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0085",
+    "nome": "Shampoo Lily Jasmim 75 g",
+    "marca": "Lily",
+    "categoria": "maquiagem",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0086",
+    "nome": "Body Splash Egeo Cacau 250 ml",
+    "marca": "Egeo",
+    "categoria": "maquiagem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0087",
+    "nome": "Condicionador Cuide-se Bem Flor de Laranjeira 50 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "perfumaria",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0088",
+    "nome": "Kit Presente Arbo Baunilha",
+    "marca": "Arbo",
+    "categoria": "perfumaria",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0089",
+    "nome": "Condicionador Zaad Flor de Laranjeira 200 ml",
+    "marca": "Zaad",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0090",
+    "nome": "Desodorante Colônia Floratta Baunilha 200 ml",
+    "marca": "Floratta",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0091",
+    "nome": "Loção Hidratante Botik Baunilha 400 ml",
+    "marca": "Botik",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0092",
+    "nome": "Kit Presente Botik Lavanda",
+    "marca": "Botik",
+    "categoria": "kits",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0093",
+    "nome": "Batom Lily Baunilha 100 ml",
+    "marca": "Lily",
+    "categoria": "perfumaria",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0094",
+    "nome": "Base Líquida Lily Flor de Laranjeira 200 ml",
+    "marca": "Lily",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0095",
+    "nome": "Base Líquida Malbec Cacau 50 ml",
+    "marca": "Malbec",
+    "categoria": "cabelos",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0096",
+    "nome": "Kit Presente Egeo Rosa",
+    "marca": "Egeo",
+    "categoria": "cabelos",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0097",
+    "nome": "Body Splash Cuide-se Bem Flor de Laranjeira 250 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "perfumaria",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0098",
+    "nome": "Desodorante Colônia Lily Rosa 75 g",
+    "marca": "Lily",
+    "categoria": "bem-estar",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0099",
+    "nome": "Desodorante Colônia Botik Amêndoas 50 ml",
+    "marca": "Botik",
+    "categoria": "maquiagem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0100",
+    "nome": "Kit Presente Lily Lavanda",
+    "marca": "Lily",
+    "categoria": "homem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0101",
+    "nome": "Desodorante Colônia Egeo Jasmim 200 ml",
+    "marca": "Egeo",
+    "categoria": "bem-estar",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0102",
+    "nome": "Body Splash Zaad Cacau 200 ml",
+    "marca": "Zaad",
+    "categoria": "corpo e banho",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0103",
+    "nome": "Máscara Facial Make B. Coco 50 ml",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0104",
+    "nome": "Kit Presente Arbo Ameixa",
+    "marca": "Arbo",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0105",
+    "nome": "Sabonete em Barra Cuide-se Bem Coco 150 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "homem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0106",
+    "nome": "Shampoo Lily Coco 150 ml",
+    "marca": "Lily",
+    "categoria": "rosto",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0107",
+    "nome": "Condicionador Malbec Ameixa 200 ml",
+    "marca": "Malbec",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0108",
+    "nome": "Kit Presente Zaad Amêndoas",
+    "marca": "Zaad",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0109",
+    "nome": "Condicionador Make B. Jasmim 150 ml",
+    "marca": "Make B.",
+    "categoria": "bem-estar",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0110",
+    "nome": "Base Líquida Arbo Coco 200 ml",
+    "marca": "Arbo",
+    "categoria": "corpo e banho",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0111",
+    "nome": "Creme de Mãos Arbo Jasmim 250 ml",
+    "marca": "Arbo",
+    "categoria": "rosto",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0112",
+    "nome": "Kit Presente Cuide-se Bem Lavanda",
+    "marca": "Cuide-se Bem",
+    "categoria": "cabelos",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0113",
+    "nome": "Loção Hidratante Make B. Algodão 200 ml",
+    "marca": "Make B.",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0114",
+    "nome": "Shampoo Egeo Baunilha 100 ml",
+    "marca": "Egeo",
+    "categoria": "rosto",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0115",
+    "nome": "Creme de Mãos Cuide-se Bem Flor de Laranjeira 75 g",
+    "marca": "Cuide-se Bem",
+    "categoria": "corpo e banho",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0116",
+    "nome": "Kit Presente Lily Jasmim",
+    "marca": "Lily",
+    "categoria": "kits",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0117",
+    "nome": "Condicionador Zaad Algodão 100 ml",
+    "marca": "Zaad",
+    "categoria": "rosto",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0118",
+    "nome": "Base Líquida Arbo Baunilha 400 ml",
+    "marca": "Arbo",
+    "categoria": "cabelos",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0119",
+    "nome": "Body Splash Egeo Rosa 75 g",
+    "marca": "Egeo",
+    "categoria": "maquiagem",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0120",
+    "nome": "Kit Presente Floratta Cacau",
+    "marca": "Floratta",
+    "categoria": "corpo e banho",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0121",
+    "nome": "Sabonete em Barra Lily Flor de Laranjeira 75 g",
+    "marca": "Lily",
+    "categoria": "perfumaria",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0122",
+    "nome": "Loção Hidratante Arbo Rosa 100 ml",
+    "marca": "Arbo",
+    "categoria": "maquiagem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0123",
+    "nome": "Máscara Facial Egeo Jasmim 200 ml",
+    "marca": "Egeo",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0124",
+    "nome": "Kit Presente Make B. Ameixa",
+    "marca": "Make B.",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0125",
+    "nome": "Máscara Facial Cuide-se Bem Flor de Laranjeira 150 ml",
+    "marca": "Cuide-se Bem",
+    "categoria": "rosto",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0126",
+    "nome": "Sabonete em Barra Make B. Flor de Laranjeira 75 g",
+    "marca": "Make B.",
+    "categoria": "kits",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0127",
+    "nome": "Creme de Mãos Arbo Algodão 200 ml",
+    "marca": "Arbo",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0128",
+    "nome": "Kit Presente Cuide-se Bem Jasmim",
+    "marca": "Cuide-se Bem",
+    "categoria": "homem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0129",
+    "nome": "Desodorante Colônia Zaad Ameixa 75 g",
+    "marca": "Zaad",
+    "categoria": "kits",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0130",
+    "nome": "Shampoo Lily Ameixa 400 ml",
+    "marca": "Lily",
+    "categoria": "rosto",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0131",
+    "nome": "Base Líquida Arbo Algodão 200 ml",
+    "marca": "Arbo",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0132",
+    "nome": "Kit Presente Intense Algodão",
+    "marca": "Intense",
+    "categoria": "corpo e banho",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0133",
+    "nome": "Loção Hidratante Egeo Jasmim 400 ml",
+    "marca": "Egeo",
+    "categoria": "kits",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0134",
+    "nome": "Base Líquida Egeo Algodão 200 ml",
+    "marca": "Egeo",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0135",
+    "nome": "Creme de Mãos Intense Baunilha 50 ml",
+    "marca": "Intense",
+    "categoria": "kits",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0136",
+    "nome": "Kit Presente Egeo Coco",
+    "marca": "Egeo",
+    "categoria": "maquiagem",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0137",
+    "nome": "Condicionador Arbo Baunilha 250 ml",
+    "marca": "Arbo",
+    "categoria": "homem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0138",
+    "nome": "Loção Hidratante Lily Lavanda 250 ml",
+    "marca": "Lily",
+    "categoria": "maquiagem",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0139",
+    "nome": "Base Líquida Floratta Cacau 200 ml",
+    "marca": "Floratta",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0140",
+    "nome": "Kit Presente Floratta Baunilha",
+    "marca": "Floratta",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0141",
+    "nome": "Base Líquida Intense Rosa 100 ml",
+    "marca": "Intense",
+    "categoria": "kits",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0142",
+    "nome": "Base Líquida Lily Amêndoas 100 ml",
+    "marca": "Lily",
+    "categoria": "corpo e banho",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0143",
+    "nome": "Máscara Facial Botik Amêndoas 150 ml",
+    "marca": "Botik",
+    "categoria": "corpo e banho",
+    "volume": "150 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0144",
+    "nome": "Kit Presente Botik Flor de Laranjeira",
+    "marca": "Botik",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0145",
+    "nome": "Desodorante Colônia Lily Lavanda 200 ml",
+    "marca": "Lily",
+    "categoria": "corpo e banho",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0146",
+    "nome": "Máscara Facial Zaad Cacau 50 ml",
+    "marca": "Zaad",
+    "categoria": "kits",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Site oficial boticario.com.br"
+  },
+  {
+    "id": "bot_0147",
+    "nome": "Sabonete em Barra Lily Lavanda 200 ml",
+    "marca": "Lily",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0148",
+    "nome": "Kit Presente Malbec Coco",
+    "marca": "Malbec",
+    "categoria": "kits",
+    "volume": "250 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Campanhas e catálogos promocionais"
+  },
+  {
+    "id": "bot_0149",
+    "nome": "Base Líquida Lily Amêndoas 100 ml",
+    "marca": "Lily",
+    "categoria": "perfumaria",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  },
+  {
+    "id": "bot_0150",
+    "nome": "Loção Hidratante Zaad Coco 75 g",
+    "marca": "Zaad",
+    "categoria": "corpo e banho",
+    "volume": "75 g",
+    "observacao": "Compilado a partir de catálogos e páginas públicas do O Boticário; dados exemplificativos",
+    "fonte": "Revista digital O Boticário (PDF público)"
+  }
+]

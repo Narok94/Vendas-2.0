@@ -1,0 +1,118 @@
+{
+  "brand": "Ouseuse",
+  "collected_at": "2025-10-14",
+  "products": [
+    {
+      "id": "ouseuse_285",
+      "name": "Calcinha em microfibra com detalhe em renda",
+      "category": "Calcinhas",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-em-microfibra-com-detalhe-em-renda-285.html"
+    },
+    {
+      "id": "ouseuse_jogger_001",
+      "name": "Calça jogger com bolsos frente e traseira",
+      "category": "Moda esportiva / Calças",
+      "price": "237.48",
+      "currency": "BRL",
+      "product_url": "https://ouseuseloja.com.br/todos-produtos"
+    },
+    {
+      "id": "ouseuse_conjunto_3pcs_001",
+      "name": "Conjunto 3 peças sutiã entremeio com argola + calcinha",
+      "category": "Conjuntos / Lingerie",
+      "price": "174.98",
+      "currency": "BRL",
+      "product_url": "https://ouseuseloja.com.br/todos-produtos"
+    },
+    {
+      "id": "ouseuse_legging_001",
+      "name": "Legging cos transpassado com recortes laterais",
+      "category": "Moda esportiva / Legging",
+      "price": "312.48",
+      "currency": "BRL",
+      "product_url": "https://ouseuseloja.com.br/todos-produtos"
+    },
+    {
+      "id": "ouseuse_category_biquine_2985",
+      "name": "Categoria: Calcinhas de biquíni (vários SKUs)",
+      "category": "Calcinhas / Biquíni",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinhas-de-biquine-2985.html"
+    },
+    {
+      "id": "ouseuse_infantil_cotton_2320",
+      "name": "Calcinha infantil em cotton",
+      "category": "Infantil / Calcinhas",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-infantil-em-cotton-2320.html"
+    },
+    {
+      "id": "ouseuse_sutia_confort_nadador_3939",
+      "name": "Sutiã Confort Nadador",
+      "category": "Sutiãs",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/sutia-confort-nadador-3939.html"
+    },
+    {
+      "id": "ouseuse_calecon_rendado_1074",
+      "name": "Calcinha Caleçon Rendada",
+      "category": "Calcinhas / Caleçon",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-calea-on-rendado-1074.html"
+    },
+    {
+      "id": "ouseuse_string_fuxico_2996",
+      "name": "Calcinha de Biquíni String com Fuxico nas Pontas",
+      "category": "Biquíni / Calcinhas",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-de-biquini-string-c-fuxico-nas-pontas-2996.html"
+    },
+    {
+      "id": "ouseuse_microfibra_silicone_costas_2809",
+      "name": "Sutiã em Microfibra com Alça e Costas de Silicone",
+      "category": "Sutiãs",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/sutia-em-microfibra-com-ala-a-e-costas-de-silicone-2809.html"
+    },
+    {
+      "id": "ouseuse_sem_elastico_costura_especial_283",
+      "name": "Calcinha em Microfibra sem Elástico com Costura Especial",
+      "category": "Calcinhas",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-em-microfibra-sem-ela-stico-com-costura-especial-283.html"
+    },
+    {
+      "id": "ouseuse_calcinha_praia_tradicional_1895",
+      "name": "Calcinha de Praia Tradicional",
+      "category": "Moda praia / Calcinhas",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-de-praia-tradicional-1895.html"
+    },
+    {
+      "id": "ouseuse_fio_duplo_microfibra_2752",
+      "name": "Calcinha Fio Duplo em Microfibra de Ponto Aberto",
+      "category": "Calcinhas / Fio",
+      "price": null,
+      "currency": "BRL",
+      "product_url": "https://www.ouseuse.com.br/calcinha-fio-duplo-em-microfibra-de-ponto-aberto-2752.html"
+    },
+    {
+      "id": "product_ouseuse_0",
+      "name": "Conjunto RENDADO com base e alça aparente com calcinha fio duplo",
+      "category": "Conjuntos / Renda",
+      "price": "122.48",
+      "currency": "BRL",
+      "product_url": "https://ouseuseloja.com.br/"
+    }
+  ]
+}

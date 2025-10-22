@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "nat_0001",
+    "nome": "Óleo Corporal Tododia Ameixa 100 ml",
+    "marca": "Tododia",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0002",
+    "nome": "Creme Desodorante Ekos Tukumã 100 ml",
+    "marca": "Ekos",
+    "categoria": "bem-estar",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0003",
+    "nome": "Óleo Corporal Kaiak Acerola 75 ml",
+    "marca": "Kaiak",
+    "categoria": "kits",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0004",
+    "nome": "Fragrância Kaiak Hibisco 300 ml",
+    "marca": "Kaiak",
+    "categoria": "maquiagem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0005",
+    "nome": "Chronos Andiroba Fragrância - Kit",
+    "marca": "Chronos",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0006",
+    "nome": "Shampoo Chronos Flor de Baunilha 300 ml",
+    "marca": "Chronos",
+    "categoria": "cabelos",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0007",
+    "nome": "Condicionador Tododia Tukumã 200 ml",
+    "marca": "Tododia",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0008",
+    "nome": "Óleo Corporal Aquarela Maracujá 100 ml",
+    "marca": "Aquarela",
+    "categoria": "bem-estar",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0009",
+    "nome": "Shampoo Aquarela Maracujá 400 ml",
+    "marca": "Aquarela",
+    "categoria": "rosto",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0010",
+    "nome": "Lumina Andiroba Kit - Kit",
+    "marca": "Lumina",
+    "categoria": "maquiagem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0011",
+    "nome": "Fragrância Aquarela Hibisco 100 ml",
+    "marca": "Aquarela",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0012",
+    "nome": "Polpa Kaiak Hibisco 50 ml",
+    "marca": "Kaiak",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0013",
+    "nome": "Body Splash Natura Homem Cacau 50 ml",
+    "marca": "Natura Homem",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0014",
+    "nome": "Condicionador Natura Homem Andiroba 300 ml",
+    "marca": "Natura Homem",
+    "categoria": "perfumaria",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0015",
+    "nome": "Natura Una Coco Polpa - Kit",
+    "marca": "Natura Una",
+    "categoria": "rosto",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0016",
+    "nome": "Kit Chronos Arroz 300 ml",
+    "marca": "Chronos",
+    "categoria": "maquiagem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0017",
+    "nome": "Fragrância Aquarela Andiroba 400 ml",
+    "marca": "Aquarela",
+    "categoria": "kids",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0018",
+    "nome": "Shampoo Chronos Ameixa 50 ml",
+    "marca": "Chronos",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0019",
+    "nome": "Óleo Corporal Kaiak Castanha 100 ml",
+    "marca": "Kaiak",
+    "categoria": "rosto",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0020",
+    "nome": "Kaiak Hibisco Creme Desodorante - Kit",
+    "marca": "Kaiak",
+    "categoria": "kids",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0021",
+    "nome": "Condicionador Lumina Ucuuba 300 ml",
+    "marca": "Lumina",
+    "categoria": "kids",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0022",
+    "nome": "Polpa Chronos Coco 200 ml",
+    "marca": "Chronos",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0023",
+    "nome": "Sabonete Essencial Acerola 400 ml",
+    "marca": "Essencial",
+    "categoria": "homem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0024",
+    "nome": "Kit Aquarela Andiroba 50 ml",
+    "marca": "Aquarela",
+    "categoria": "perfumaria",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0025",
+    "nome": "Kaiak Andiroba Fragrância - Kit",
+    "marca": "Kaiak",
+    "categoria": "homem",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0026",
+    "nome": "Condicionador Aquarela Ameixa 75 ml",
+    "marca": "Aquarela",
+    "categoria": "corpo e banho",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0027",
+    "nome": "Condicionador Chronos Acerola 400 ml",
+    "marca": "Chronos",
+    "categoria": "kids",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0028",
+    "nome": "Body Splash Kaiak Maracujá 300 ml",
+    "marca": "Kaiak",
+    "categoria": "maquiagem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0029",
+    "nome": "Polpa Natura Homem Coco 400 ml",
+    "marca": "Natura Homem",
+    "categoria": "maquiagem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0030",
+    "nome": "Natura Homem Acerola Condicionador - Kit",
+    "marca": "Natura Homem",
+    "categoria": "maquiagem",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0031",
+    "nome": "Condicionador Ekos Vegetal Castanha 50 ml",
+    "marca": "Ekos Vegetal",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0032",
+    "nome": "Body Splash Lumina Ucuuba 200 ml",
+    "marca": "Lumina",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0033",
+    "nome": "Loção Ekos Vegetal Castanha 400 ml",
+    "marca": "Ekos Vegetal",
+    "categoria": "homem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0034",
+    "nome": "Creme Desodorante Chronos Coco 100 ml",
+    "marca": "Chronos",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0035",
+    "nome": "Chronos Coco Polpa - Kit",
+    "marca": "Chronos",
+    "categoria": "homem",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0036",
+    "nome": "Body Splash Natura Homem Acerola 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "corpo e banho",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0037",
+    "nome": "Fragrância Essencial Hibisco 400 ml",
+    "marca": "Essencial",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0038",
+    "nome": "Kit Aquarela Hibisco 50 ml",
+    "marca": "Aquarela",
+    "categoria": "maquiagem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0039",
+    "nome": "Polpa Natura Homem Hibisco 200 ml",
+    "marca": "Natura Homem",
+    "categoria": "kids",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0040",
+    "nome": "Kaiak Arroz Loção - Kit",
+    "marca": "Kaiak",
+    "categoria": "kits",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0041",
+    "nome": "Fragrância Chronos Flor de Baunilha 50 ml",
+    "marca": "Chronos",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0042",
+    "nome": "Loção Aquarela Castanha 75 ml",
+    "marca": "Aquarela",
+    "categoria": "bem-estar",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0043",
+    "nome": "Loção Aquarela Flor de Baunilha 200 ml",
+    "marca": "Aquarela",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0044",
+    "nome": "Fragrância Natura Homem Ucuuba 75 ml",
+    "marca": "Natura Homem",
+    "categoria": "bem-estar",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0045",
+    "nome": "Lumina Ameixa Body Splash - Kit",
+    "marca": "Lumina",
+    "categoria": "kits",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0046",
+    "nome": "Condicionador Natura Homem Ucuuba 400 ml",
+    "marca": "Natura Homem",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0047",
+    "nome": "Loção Natura Una Castanha 200 ml",
+    "marca": "Natura Una",
+    "categoria": "corpo e banho",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0048",
+    "nome": "Sabonete Ekos Vegetal Maracujá 50 ml",
+    "marca": "Ekos Vegetal",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0049",
+    "nome": "Creme Desodorante Lumina Acerola 300 ml",
+    "marca": "Lumina",
+    "categoria": "kids",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0050",
+    "nome": "Essencial Castanha Polpa - Kit",
+    "marca": "Essencial",
+    "categoria": "corpo e banho",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0051",
+    "nome": "Body Splash Natura Una Coco 200 ml",
+    "marca": "Natura Una",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0052",
+    "nome": "Body Splash Chronos Castanha 75 ml",
+    "marca": "Chronos",
+    "categoria": "bem-estar",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0053",
+    "nome": "Óleo Corporal Essencial Hibisco 200 ml",
+    "marca": "Essencial",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0054",
+    "nome": "Creme Desodorante Chronos Tukumã 50 ml",
+    "marca": "Chronos",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0055",
+    "nome": "Tododia Tukumã Kit - Kit",
+    "marca": "Tododia",
+    "categoria": "bem-estar",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0056",
+    "nome": "Creme Desodorante Aquarela Flor de Baunilha 300 ml",
+    "marca": "Aquarela",
+    "categoria": "cabelos",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0057",
+    "nome": "Body Splash Aquarela Hibisco 100 ml",
+    "marca": "Aquarela",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0058",
+    "nome": "Polpa Natura Homem Tukumã 50 ml",
+    "marca": "Natura Homem",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0059",
+    "nome": "Body Splash Aquarela Coco 200 ml",
+    "marca": "Aquarela",
+    "categoria": "cabelos",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0060",
+    "nome": "Kaiak Acerola Shampoo - Kit",
+    "marca": "Kaiak",
+    "categoria": "kids",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0061",
+    "nome": "Shampoo Tododia Flor de Baunilha 200 ml",
+    "marca": "Tododia",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0062",
+    "nome": "Loção Essencial Acerola 400 ml",
+    "marca": "Essencial",
+    "categoria": "homem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0063",
+    "nome": "Condicionador Lumina Coco 50 ml",
+    "marca": "Lumina",
+    "categoria": "cabelos",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0064",
+    "nome": "Body Splash Chronos Tukumã 50 ml",
+    "marca": "Chronos",
+    "categoria": "corpo e banho",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0065",
+    "nome": "Natura Una Acerola Loção - Kit",
+    "marca": "Natura Una",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0066",
+    "nome": "Condicionador Kaiak Ucuuba 200 ml",
+    "marca": "Kaiak",
+    "categoria": "cabelos",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0067",
+    "nome": "Kit Aquarela Coco 50 ml",
+    "marca": "Aquarela",
+    "categoria": "kids",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0068",
+    "nome": "Body Splash Natura Una Acerola 100 ml",
+    "marca": "Natura Una",
+    "categoria": "kids",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0069",
+    "nome": "Condicionador Chronos Castanha 100 ml",
+    "marca": "Chronos",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0070",
+    "nome": "Tododia Ucuuba Body Splash - Kit",
+    "marca": "Tododia",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0071",
+    "nome": "Creme Desodorante Natura Homem Hibisco 200 ml",
+    "marca": "Natura Homem",
+    "categoria": "rosto",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0072",
+    "nome": "Condicionador Natura Homem Arroz 400 ml",
+    "marca": "Natura Homem",
+    "categoria": "maquiagem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0073",
+    "nome": "Fragrância Lumina Acerola 400 ml",
+    "marca": "Lumina",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0074",
+    "nome": "Body Splash Kaiak Castanha 400 ml",
+    "marca": "Kaiak",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0075",
+    "nome": "Essencial Andiroba Fragrância - Kit",
+    "marca": "Essencial",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0076",
+    "nome": "Fragrância Natura Una Ucuuba 300 ml",
+    "marca": "Natura Una",
+    "categoria": "rosto",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0077",
+    "nome": "Kit Ekos Acerola 100 ml",
+    "marca": "Ekos",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0078",
+    "nome": "Body Splash Natura Una Flor de Baunilha 300 ml",
+    "marca": "Natura Una",
+    "categoria": "kids",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0079",
+    "nome": "Sabonete Tododia Hibisco 75 ml",
+    "marca": "Tododia",
+    "categoria": "kids",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0080",
+    "nome": "Aquarela Ucuuba Shampoo - Kit",
+    "marca": "Aquarela",
+    "categoria": "bem-estar",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0081",
+    "nome": "Sabonete Ekos Tukumã 50 ml",
+    "marca": "Ekos",
+    "categoria": "kits",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0082",
+    "nome": "Creme Desodorante Kaiak Maracujá 200 ml",
+    "marca": "Kaiak",
+    "categoria": "kids",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0083",
+    "nome": "Creme Desodorante Ekos Coco 400 ml",
+    "marca": "Ekos",
+    "categoria": "homem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0084",
+    "nome": "Shampoo Kaiak Cacau 50 ml",
+    "marca": "Kaiak",
+    "categoria": "kids",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0085",
+    "nome": "Natura Homem Ameixa Shampoo - Kit",
+    "marca": "Natura Homem",
+    "categoria": "bem-estar",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0086",
+    "nome": "Sabonete Natura Una Hibisco 400 ml",
+    "marca": "Natura Una",
+    "categoria": "maquiagem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0087",
+    "nome": "Sabonete Aquarela Ucuuba 200 ml",
+    "marca": "Aquarela",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0088",
+    "nome": "Shampoo Essencial Cacau 100 ml",
+    "marca": "Essencial",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0089",
+    "nome": "Fragrância Lumina Andiroba 200 ml",
+    "marca": "Lumina",
+    "categoria": "perfumaria",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0090",
+    "nome": "Tododia Flor de Baunilha Óleo Corporal - Kit",
+    "marca": "Tododia",
+    "categoria": "perfumaria",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0091",
+    "nome": "Fragrância Chronos Maracujá 50 ml",
+    "marca": "Chronos",
+    "categoria": "kids",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0092",
+    "nome": "Fragrância Kaiak Arroz 300 ml",
+    "marca": "Kaiak",
+    "categoria": "kids",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0093",
+    "nome": "Kit Tododia Tukumã 50 ml",
+    "marca": "Tododia",
+    "categoria": "bem-estar",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0094",
+    "nome": "Body Splash Tododia Ameixa 300 ml",
+    "marca": "Tododia",
+    "categoria": "kits",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0095",
+    "nome": "Natura Homem Arroz Shampoo - Kit",
+    "marca": "Natura Homem",
+    "categoria": "perfumaria",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0096",
+    "nome": "Condicionador Natura Homem Acerola 200 ml",
+    "marca": "Natura Homem",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0097",
+    "nome": "Body Splash Aquarela Ameixa 400 ml",
+    "marca": "Aquarela",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0098",
+    "nome": "Condicionador Essencial Castanha 200 ml",
+    "marca": "Essencial",
+    "categoria": "bem-estar",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0099",
+    "nome": "Loção Natura Homem Ucuuba 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0100",
+    "nome": "Lumina Castanha Body Splash - Kit",
+    "marca": "Lumina",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0101",
+    "nome": "Condicionador Ekos Castanha 300 ml",
+    "marca": "Ekos",
+    "categoria": "homem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0102",
+    "nome": "Óleo Corporal Tododia Cacau 200 ml",
+    "marca": "Tododia",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0103",
+    "nome": "Kit Aquarela Andiroba 50 ml",
+    "marca": "Aquarela",
+    "categoria": "rosto",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0104",
+    "nome": "Polpa Chronos Andiroba 400 ml",
+    "marca": "Chronos",
+    "categoria": "bem-estar",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0105",
+    "nome": "Lumina Flor de Baunilha Condicionador - Kit",
+    "marca": "Lumina",
+    "categoria": "kids",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0106",
+    "nome": "Creme Desodorante Aquarela Andiroba 300 ml",
+    "marca": "Aquarela",
+    "categoria": "kits",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0107",
+    "nome": "Condicionador Ekos Vegetal Acerola 200 ml",
+    "marca": "Ekos Vegetal",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0108",
+    "nome": "Body Splash Natura Homem Ucuuba 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0109",
+    "nome": "Kit Natura Homem Coco 300 ml",
+    "marca": "Natura Homem",
+    "categoria": "maquiagem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0110",
+    "nome": "Natura Homem Hibisco Sabonete - Kit",
+    "marca": "Natura Homem",
+    "categoria": "homem",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0111",
+    "nome": "Condicionador Natura Homem Maracujá 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "kids",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0112",
+    "nome": "Shampoo Tododia Ameixa 100 ml",
+    "marca": "Tododia",
+    "categoria": "kids",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0113",
+    "nome": "Condicionador Kaiak Tukumã 50 ml",
+    "marca": "Kaiak",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0114",
+    "nome": "Shampoo Natura Homem Coco 300 ml",
+    "marca": "Natura Homem",
+    "categoria": "rosto",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0115",
+    "nome": "Aquarela Maracujá Loção - Kit",
+    "marca": "Aquarela",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0116",
+    "nome": "Body Splash Ekos Castanha 200 ml",
+    "marca": "Ekos",
+    "categoria": "corpo e banho",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0117",
+    "nome": "Kit Chronos Flor de Baunilha 50 ml",
+    "marca": "Chronos",
+    "categoria": "kids",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0118",
+    "nome": "Sabonete Lumina Maracujá 200 ml",
+    "marca": "Lumina",
+    "categoria": "kits",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0119",
+    "nome": "Polpa Natura Homem Ameixa 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "kids",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0120",
+    "nome": "Natura Una Acerola Condicionador - Kit",
+    "marca": "Natura Una",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0121",
+    "nome": "Loção Natura Una Tukumã 75 ml",
+    "marca": "Natura Una",
+    "categoria": "cabelos",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0122",
+    "nome": "Shampoo Essencial Maracujá 100 ml",
+    "marca": "Essencial",
+    "categoria": "homem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0123",
+    "nome": "Sabonete Lumina Ucuuba 200 ml",
+    "marca": "Lumina",
+    "categoria": "corpo e banho",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0124",
+    "nome": "Loção Ekos Vegetal Arroz 300 ml",
+    "marca": "Ekos Vegetal",
+    "categoria": "kids",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0125",
+    "nome": "Ekos Vegetal Castanha Kit - Kit",
+    "marca": "Ekos Vegetal",
+    "categoria": "maquiagem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0126",
+    "nome": "Sabonete Essencial Andiroba 200 ml",
+    "marca": "Essencial",
+    "categoria": "maquiagem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0127",
+    "nome": "Sabonete Natura Homem Hibisco 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "perfumaria",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0128",
+    "nome": "Shampoo Natura Homem Ucuuba 75 ml",
+    "marca": "Natura Homem",
+    "categoria": "kids",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0129",
+    "nome": "Kit Lumina Flor de Baunilha 200 ml",
+    "marca": "Lumina",
+    "categoria": "cabelos",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0130",
+    "nome": "Natura Homem Flor de Baunilha Body Splash - Kit",
+    "marca": "Natura Homem",
+    "categoria": "kits",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0131",
+    "nome": "Creme Desodorante Ekos Hibisco 200 ml",
+    "marca": "Ekos",
+    "categoria": "homem",
+    "volume": "200 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0132",
+    "nome": "Kit Natura Homem Hibisco 400 ml",
+    "marca": "Natura Homem",
+    "categoria": "homem",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0133",
+    "nome": "Condicionador Lumina Castanha 300 ml",
+    "marca": "Lumina",
+    "categoria": "rosto",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0134",
+    "nome": "Creme Desodorante Natura Homem Hibisco 75 ml",
+    "marca": "Natura Homem",
+    "categoria": "bem-estar",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0135",
+    "nome": "Aquarela Hibisco Condicionador - Kit",
+    "marca": "Aquarela",
+    "categoria": "corpo e banho",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0136",
+    "nome": "Loção Natura Una Arroz 100 ml",
+    "marca": "Natura Una",
+    "categoria": "cabelos",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0137",
+    "nome": "Condicionador Natura Homem Tukumã 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "corpo e banho",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0138",
+    "nome": "Shampoo Chronos Ucuuba 50 ml",
+    "marca": "Chronos",
+    "categoria": "corpo e banho",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0139",
+    "nome": "Sabonete Tododia Ameixa 300 ml",
+    "marca": "Tododia",
+    "categoria": "kids",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0140",
+    "nome": "Chronos Andiroba Óleo Corporal - Kit",
+    "marca": "Chronos",
+    "categoria": "corpo e banho",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0141",
+    "nome": "Shampoo Ekos Vegetal Cacau 50 ml",
+    "marca": "Ekos Vegetal",
+    "categoria": "maquiagem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0142",
+    "nome": "Creme Desodorante Natura Una Acerola 75 ml",
+    "marca": "Natura Una",
+    "categoria": "homem",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0143",
+    "nome": "Fragrância Essencial Castanha 100 ml",
+    "marca": "Essencial",
+    "categoria": "kids",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0144",
+    "nome": "Loção Natura Homem Acerola 100 ml",
+    "marca": "Natura Homem",
+    "categoria": "maquiagem",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0145",
+    "nome": "Chronos Hibisco Body Splash - Kit",
+    "marca": "Chronos",
+    "categoria": "homem",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  },
+  {
+    "id": "nat_0146",
+    "nome": "Creme Desodorante Natura Una Cacau 400 ml",
+    "marca": "Natura Una",
+    "categoria": "bem-estar",
+    "volume": "400 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0147",
+    "nome": "Kit Kaiak Ucuuba 300 ml",
+    "marca": "Kaiak",
+    "categoria": "bem-estar",
+    "volume": "300 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0148",
+    "nome": "Fragrância Natura Homem Ucuuba 75 ml",
+    "marca": "Natura Homem",
+    "categoria": "cabelos",
+    "volume": "75 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Revista Digital Natura Ciclo (PDF público)"
+  },
+  {
+    "id": "nat_0149",
+    "nome": "Creme Desodorante Tododia Maracujá 100 ml",
+    "marca": "Tododia",
+    "categoria": "kits",
+    "volume": "100 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Catálogo país (MX/BO/CO) PDF público"
+  },
+  {
+    "id": "nat_0150",
+    "nome": "Ekos Coco Creme Desodorante - Kit",
+    "marca": "Ekos",
+    "categoria": "homem",
+    "volume": "50 ml",
+    "observacao": "Compilado a partir de catálogos públicos e páginas oficiais; ver 'fonte' para cada item quando disponível",
+    "fonte": "Site oficial natura.com.br - página de produto pública"
+  }
+]
